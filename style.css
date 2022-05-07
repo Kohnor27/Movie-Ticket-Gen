@@ -1,0 +1,27 @@
+body, html {
+    height: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("assets/movie.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+label{
+    color: white;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+#button{
+    text-align: center;
+}
+
+#form{
+    width: 100px;
+    height: 100px;
+}
